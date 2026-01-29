@@ -1,5 +1,3 @@
-humanize the text
-
  🚁 AI Drone Path Planning Project
 
  
